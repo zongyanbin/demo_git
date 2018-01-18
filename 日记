@@ -4,4 +4,6 @@ git comint
 git push
 git pull
 git diff
-git push 
+git push
+git reset log
+git reset reflog
