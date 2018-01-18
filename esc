@@ -1,0 +1,150 @@
+[33mcommit fa45422063c03c600da0d2fad4342a8b5c3ce2b4[m
+Merge: 64c2886 e25030c
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 16:09:25 2018 +0800
+
+    git 命令
+    
+    git 命令
+
+[33mcommit 64c288691520e4fdadbeb7a3dcaf41761721aca9[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 16:04:20 2018 +0800
+
+    git 命令
+    
+    git 命令
+
+[33mcommit e25030c59f3cfa9e39a2e03bf8c927b28f29e3aa[m
+Merge: 7e8669e 3e71e05
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 15:33:10 2018 +0800
+
+    Merge branch 'master' of github.com:zongyanbin/demo_git
+    是是是
+
+[33mcommit 7e8669ec59aad35a0399369304eb8dfcea2497b3[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 15:29:53 2018 +0800
+
+    是是是
+
+[33mcommit 3e71e056520ea674b9186f37a5f7803d38cc39d3[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 15:21:45 2018 +0800
+
+    不不不不
+    
+    不不不不
+
+[33mcommit bd8d39c91139971ab9fa6b2a9a564854d3211564[m
+Merge: e02201f 735573d
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 11:35:35 2018 +0800
+
+    我喜欢吃水果
+    
+    我喜欢吃水果
+
+[33mcommit e02201f26469e4d64ffd8cb5697bdd08bbb1dc6d[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 11:29:55 2018 +0800
+
+    我喜欢吃水果
+    
+    我喜欢吃水果
+
+[33mcommit 735573db4dece29fa1bf617a5ad3074057d58358[m
+Merge: b706e23 58fab28
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 11:27:12 2018 +0800
+
+    我喜欢吃蔬菜
+
+[33mcommit b706e23d0ee2cfd31de3920a6bd220c068d082c5[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 11:23:47 2018 +0800
+
+    我还是比较喜欢吃蔬菜
+
+[33mcommit 58fab286dee8e1103a1af812d66b1fc3569e76f3[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 11:21:09 2018 +0800
+
+    今天是x月Y日，我吃了一个香蕉
+    
+    今天是x月Y日，我吃了一个香蕉
+
+[33mcommit f435d02823376786573769b5c12cfc76ce78525b[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 17 11:18:07 2018 +0800
+
+    我在windows 上新加了一个日记
+    
+    我在windows 上新加了一个日记
+
+[33mcommit 2592b1902dc7894745823a6029a3158e1ac56f0f[m
+Merge: 8512f9b 03c1646
+Author: zongyanbin <315635152@qq.com>
+Date:   Mon Jan 15 15:14:53 2018 +0800
+
+    Merge branch 'master' of github.com:zongyanbin/demo_git
+    添加香蕉
+
+[33mcommit 8512f9b5bad91b49940ad833202bf10342fb4700[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Mon Jan 15 10:13:04 2018 +0800
+
+    香蕉不好吃
+
+[33mcommit 03c16461fcc018ddac7059c004cfd1cfd5746db0[m
+Merge: 65c38b8 9ab07d1
+Author: zongyanbin <315635152@qq.com>
+Date:   Mon Jan 15 10:11:19 2018 +0800
+
+    Merge branch 'master' of github.com:zongyanbin/demo_git
+    栗子真难吃
+
+[33mcommit 65c38b881db2b941030f32c6eec80b6280fbd933[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Mon Jan 15 10:08:37 2018 +0800
+
+    今天栗子不好吃
+
+[33mcommit 9ab07d167576fdafa2076508f49bf201af79a349[m
+Merge: 5068e71 525dde3
+Author: zongyanbin <315635152@qq.com>
+Date:   Fri Jan 12 17:57:29 2018 +0800
+
+    Merge branch 'master' of github.com:zongyanbin/demo_git
+    太难吃了
+
+[33mcommit 5068e71db885e070f20e12b40e3e313c4c897c55[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Fri Jan 12 17:48:15 2018 +0800
+
+    修改日记2文件
+
+[33mcommit 525dde332853d16469e63e8533665cec16d2d642[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Fri Jan 12 17:45:22 2018 +0800
+
+    修改日记
+
+[33mcommit 1a921ed79d47bba61f29f698d2c15eb0bb0e9bb8[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Fri Jan 12 15:31:58 2018 +0800
+
+    苹果不好吃
+
+[33mcommit 9e586ff73a8375e4bfb23931be50d4d07147567e[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 10 16:25:48 2018 +0800
+
+    我新加了一个日记文件
+
+[33mcommit 67898e225bfa33b35334041a85778522ebffdf9a[m
+Author: zongyanbin <315635152@qq.com>
+Date:   Wed Jan 10 15:59:49 2018 +0800
+
+    Initial commit
